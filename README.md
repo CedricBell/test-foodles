@@ -1,4 +1,4 @@
 # Useful Information
 
-The code has be written through Visual Studio Code and the test class can be run as a Junit test with the java plugins. 
+The code has been written in Java through Visual Studio Code IDE and the test class can be run as a Junit test with the appropriate java plugins. 
 
